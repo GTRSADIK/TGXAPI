@@ -1,0 +1,13 @@
+# Environment
+.env
+*.pyc
+__pycache__/
+
+# Databases & uploads
+database/
+inventory_zips/
+inventory_data/
+logs/
+
+# Virtual environment
+venv/
